@@ -1,0 +1,39 @@
+body{
+background-image:url('bgg.jpg');
+background repeat: no repeat;
+background-size:cover;
+font-family: "Lucida Console", "Courier New", monospace;
+border-style:double;
+}
+
+h1{
+background-color: Aquamarine;
+color:black;
+text-shadow:Aqua;
+text-align: center;
+opacity:100%;
+border-style:double;
+width:1200px;
+height:50px;
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+
+div{
+margin: 50px 500px;
+}
+
+.button1 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

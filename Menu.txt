@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="new.css"
+</head>
+<body>
+
+<center>
+<h1>MENU</h1>
+<hr>
+
+<a href="MY THIRDyy.html" target="_blank"><div class="zoom"><img src='idea.gif' height='100px' width='120px'></div></a>
+<center>
+<h3> Kapag kinlick mo ang button mapupunta ka sa activity 3.</h3>
+</center>
+<a href="mine.html" target="_blank><div class="zoom"><img src='user.gif' height='100px' width='120px'></div></a>
+
+<center>
+<h3> Hi! My Name is Ezra Barcenas Sionilo you can call me 'rara' and if you want more information about me just click the first icon.</h3>
+</center>
+
+<a href="MyFamily.html" target="_blank><div class="zoom"><img src='love.gif' height='100px' width='120px'></div></a>
+
+<center>
+<h3> Hi! This Third Icon contains my family information.</h3>
+</center>
+
+</body>
+</html>

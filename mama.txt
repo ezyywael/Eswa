@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<link rel="stylesheet"href="news.css">
+</head>
+<body>
+<center>
+<h1 style="border: 3px solid DarkCyan;">PERSONAL INFORMATION</h1>
+</center>
+<nav>
+<center><img src="mama.jpg" width="120' height="150" style="border: 3px;</center>
+</nav>
+
+<center>
+<h3 id="b1"> </h3>
+<h3 id="b2">“When you are looking at your mother, you are looking at the purest love you will ever know.” —Charley Benetto</h3>
+<p id="b3">PLACE OF BIRTH:</p>
+<p id="b4"><b>BULAN SORSOGON:</b></p>
+<p id="b5">CIVIL STATUS:</p>
+<p id="b6"><b>MARRIED</b></p>
+<p id="b7">CITIZENSHIP:</p>
+<p id="b8"><b>FILIPINO</b></p>
+<p id="b9">RELIGION:</p>
+<p id="b10"><b>BORN AGAIN CHRISTIAN</b></p>
+</center>
+
+<a href="Menu.html">
+
+<button type="button" class="button">
+<img src="home.gif" alt="user button" height=40px>
+<span class="button_icon">
+
+</span>
+</button>
+</a>
+
+</body>
+</html>

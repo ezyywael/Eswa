@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> SECOND ACTIVITY - SIONILO,EZRA B.</title>
+
+</head>
+<body background="ez.jpg" style="background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;">
+
+<center><h1 style="border:3px solid Tomato;color:white;"> MY SECOND ACTIVITY </h1>
+<center><h1 style="border-bottom:2px solid gray;border-top:2px solid gray;color:white;"><b>Good day!</b> let's try  <b> THE HTML PRACTICE</b></h1>
+
+<center>
+<h2 style="color:GoldenRod;display:inline-block; border-bottom:1px solid GoldenRod;">INSTAGRAM</h2>
+<h3 style="color:GoldenRod;font-family:Courier New;">Napili ko ang website na Instagram dahil doon mas active ang mga artist. Mas magandang mag scroll sa instagram dahil wala masyadong toxic.Ang instagram ay parang facebook lang din, yun nga lang ito ay puro picture lang pero pwede ka din makipag communicate at pwede mo din machat yung mga artist na gusto mo at baka may chance pa na mapansin ka nila. Mahilig po kasi ako sa kpop and kdrama at yung mga artist na gusto ko ay sa instagram lang nag update. Kung masyado ng toxic ang facebook, mag instagram ka nalang dahil mas payapa doon at mas maganda ang mga feed. </h3>
+</center>
+<center>
+<h2 style="color:MediumSeaGreen;display:inline-block; border-bottom:1px solid MediumSeaGreen;">YOUTUBE</h2>
+<h3 style="color:MediumSeaGreen;font-family:Courier New;">Napili ko naman ang Youtube dahil isa ito sa madalas kong tambayan dahil puro entertainment ang mganilalaman nito. Isa ang Youtube sa pinaka pinaglalaanan ko ng oras dahil dito mapapanood ang iba't ibang video kahit anong genre man ang iyong naisin. Ang youtube ay isa sa nakatulong sa atin nung quarantine dahil nga nasa loob lang tayo ng bahay at walang magawa ang application an ito ang nag entertain sa atin. Dahil sa youtube madaming mga tao ang nabago ang buhay maaring sila ay mga naging professional youtuber at yung iba naman ay natulungan dahil sa youtube. Ngayon bagama't marami ng ads ang youtube patuloy pa din ang pagdami ng mga taong gumagamit nito dahil ito ay isang application na libre lamang.</h3>
+</center>
+<center>
+<h2 style="color:DodgerBlue;display:inline-block; border-bottom:1px solid DodgerBlue;">DRAMACOOL</h2>
+<h3 style="color:DodgerBlue;font-family:Courier New;">Ang Dramacool ay isang site na naglalaman ng puro drama ng iba't ibang bansa at mayroon din itong movies, reality show at iba pa. Dramacool ay isa sa pinaka popular na site sa   mga mahilig manood ng Kdrama dahil dit sa site na ito ay libre mong papanood ang mga drama na gusto mo. Maraming site ang dramacool kaya dapat marunong kang tumingin na isang site kung safe ba ito at walang virus na makukuha ang ginigamit mong gadget. Bagama't illegal ang mga pag uupload ng mga videos na galing sa mga private site gaya ng netflix, dahil sa dramacool maraming mga netizens ang updated pa din sa mga kdrama. Isa ito sa mga site na magandang panooran dahil maganda din ang quality at higit sa lahat libre pa.</h3>
+</center>
+<center>
+<h2 style="color:HotPink;display:inline-block; border-bottom:1px solid HotPink;">MESSENGER</h2>
+<h3 style="color:HotPink;font-family:Courier New;">Napili ko ang Messenger dahil isa ito sa application na nagpapadali ng pakikipag komunikasyon sa iba't ibang tao na nais mong makausap kahit na sila ay malayo. Dahil sa messenger nagkaroon tayo ng chance na makausap ang mga mahal natin sa buhay na malayo at pwede pa nating makita yung mukha nila via video call. Malaking tulong ang messenger lalo na sa panahon ng pandemya, dito maari nating maka musta ang mga mahal natin sa buhay at maari pa nating ma monitor ang mental health ng bawat isa. Ang messenger ay magandang application dahil kahit wala kang data maari mo pa din itong magamit ng walang bayad. Ang messenger din ay kadugtong lamang ng facebook kung sa facebook ay maari kang makakita ng feed, dito naman ay puro messages at story lang ang nilalaman.</h3>
+</center>
+<center>
+<h2 style="color:Aquamarine;display:inline-block; border-bottom:1px solid Aquamarine;">9ANIME</h2>
+<h3 style="color:Aquamarine;font-family:Courier New;">Ang 9anime naman ay isang site na naglalaman ng puro animation. Kung nami miss mo na ang mga childhood anime mo at nais mong panoorin muli ang site na ito ay libre lamang at maganda din ang quality ng mga anime series or movies. Masayang manood ng anime mabuti nalang at may mga site na libre lang at mapapanood mo na ang mga paborito mong anime. Dito sa site na ito ay updated din, kapag may bagong labas na anime agad din nitong inilalabas. Maganda na nanood din tayo ng mga movies or series na gusto natin lalo na kung minsan ka lang magkaroon ng time para sa satili mo.</h3>
+</center>
+
+<center><h1 style="border-bottom:3px solid gray;"></h1>
+<form>
+<center>
+<table border="5" width="500px" height="200px">
+  <tbody><tr>
+    <th rowspan="6" style="color:Orange;">Search</th>
+    <th colspan="2" style="color:Orange;">Browser</th>
+    <th style="color:Orange;">Website</th>
+	<th style="color:Orange;">Links</th>  
+</tr>
+<tr>
+  
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">INSTAGRAM</td>
+ <td><a style="color:LightCoral;" href="https://www.instagram.com" "="" target="_blank">https://www.instagram.com</a></td>
+  </tr>
+
+  <tr>
+    
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">YOUTUBE</td>
+ <td> <a style="color:LightCoral;" href="https://www.youtube.com" "="" target="_blank">https://www.youtube.com</a></td>
+  </tr>
+
+  <tr>
+   
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">DRAMACOOL</td>
+ <td><a style="color:LightCoral;" href="https://www.dramacool.fo" "="" target="_blank">https://www.dramacool.fo</a></td>
+  </tr>
+
+  <tr>
+   
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">MESSENGER</td>
+ <td><a style="color:LightCoral;" href="https://www.messenger.com" "="" target="_blank">https://ww.messenger.com</a></td>
+  </tr>
+ <tr>
+    
+    <td style="color:LightCoral;">GOOGLE</td>
+    <td style="color:LightCoral;">FIREFOX</td>
+ <td style="color:LightCoral;">9ANIME</td>
+ <td><a style="color:LightCoral;" href="https://9anime.to" "="" target="_blank">https://9anime.to</a></td>
+  </tr>
+
+</tbody>
+</table>
+<center>
+<h1 style="border-bottom:3px solid gray;"></h1>
+
+</center>
+</center>
+</form>
+</center>
+</center>
+</center>
+</body>
+</html>

@@ -1,0 +1,42 @@
+body {
+background-image: url("bgg.jpg");
+background repeat: no repeat;
+background-size: cover;
+font-family: "Lucida Console", "Courier New", monospace;
+font size: larger;
+border-color: solid gray;
+border style: solid;
+}
+
+h1 {
+background-color:Aquamarine;
+color:black;
+font-family: "Times New Roman", Times, serif;
+border style: solid gray;
+border style: double;
+opacity:70%;
+border radius: 5%;
+outline-style: outset;
+outline-color: grey;
+text-shadow: 0 0 3px #FF0000;
+border:5px solid gray;
+text-align: center;
+
+}
+h2 {
+font-size: x larger;
+font-family: "Times New Roman", Times, serif;
+font-stretch: expanded;
+animation: alternate reverse;
+text-shadow: 2px 2px 5px red;
+opacity: 70%;
+text-align: center;
+}
+
+h3{
+font-family: "Times New Roman", Times, serif;
+background-color:Aquamarine;
+text-shadow: 2px 2px 5px red;
+color:white;
+text-align: center;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<link rel="stylesheet" href="ne.css">
+</head>
+<body>
+
+<center>
+<h1 style="border: 2px solid Black;">My Family</h1>
+</center>
+
+<div class="myDiv">
+<p><img src="ez.jpg" width="120' height="150" style="border: 3px;"><br>
+Annyeong! I'm Ezra Barcenas Sionilo, 20 years old and I want to be successful someday :>.<br>
+<button onclick="window.location.href='mine.html';">See Profile</button>
+</p>
+</div>
+
+<div class="myDiv">
+<p><img src="mama.jpg" width="120' height="150" style="border: 3px;"><br>
+Annyeong! She's my mother, Erlinda Barcenas Sionilo, and she's the best mom in the world.<br>
+<button onclick="window.location.href='mama.html';">See Profile</button>
+</p>
+</div>
+
+<div class="myDiv">
+<p><img src="papa.jpg" width="120' height="150" style="border: 3px;"><br>
+Annyeong! He's my father, Mario Cruz Sionilo, and he's the first man that I loved.<br>
+<button onclick="window.location.href='papa.html';">See Profile</button>
+</p>
+</div>
+<a href="Menu.html">
+<button1 type="button" class="button">
+<img src="home.gif" alt="user button" height=40px>
+<span class="button_icon">
+
+</span>
+</button1>
+</a>
+
+</body>
+</html>

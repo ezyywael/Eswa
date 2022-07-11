@@ -1,0 +1,209 @@
+body{
+background-image: url('bgg.jpg');
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+h1{
+background-color:Aquamarine;
+color:black;
+text-shadow:0 0 3px #FF0000;
+opacity:100%;
+border-style:double;
+width:1200px;
+height:40px;
+}
+
+button{
+background-color:transparent;
+border:none;
+}
+nav:hover{transform:scale(0.7);}
+
+#p1{
+color:Blue;
+background-color:rgb(51, 0, 0);
+}
+
+#p2{
+color:Aquamarine;
+background-color:rgb(51, 0, 0);
+}
+
+#p3{
+color:DarkCyan;
+background-color:rgb(51, 0, 0);
+}
+
+#p4{
+color:Aqua;
+background-color:rgb(51, 0, 0);
+}
+
+#p5{
+color:Green;
+background-color:rgb(51, 0, 0);
+}
+
+nav:hover{transform:scale(0.7);}
+
+#b2{
+background-color:Aquamarine;
+color:black;
+text-shadow:0 0 3px #FF0000;
+opacity:100%;
+border-style:double;
+}
+
+#b3{
+color: DarkCyan;
+position: relative;
+background: white;
+background-color:white;
+width: 100pt;
+border-radius: 10px;
+background: black;
+box-shadow: 5px 10px #888888;
+backdrop-filter: opacity(70%);
+margin: 30px;
+padding: 20px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+align-content:center;
+position: relative;
+}
+
+#b4{
+color: Aquamarine;
+position: relative;
+background: white;
+background-color:white;
+width: 100pt;
+border-radius: 5px;
+background:  black;
+box-shadow: 5px 10px #888888;
+backdrop-filter: opacity(70%);
+margin: 30px;
+padding: 20px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+align-content:center;
+position: relative;
+}
+
+#b5{
+color: DarkCyan;
+position: relative;
+background: white;
+background-color:white;
+width: 100pt;
+border-radius: 5px;
+background:  black;
+box-shadow: 5px 10px #888888;
+backdrop-filter: opacity(70%);
+margin: 30px;
+padding: 20px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+align-content:center;
+position: relative;
+}
+
+#b6{
+color: Aquamarine;
+position: relative;
+background: white;
+background-color:white;
+width: 100pt;
+border-radius: 5px;
+background: black;
+box-shadow: 5px 10px #888888;
+backdrop-filter: opacity(70%);
+margin: 30px;
+padding: 20px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+align-content:center;
+position: relative;
+}
+
+#b7{
+color: DarkCyan;
+position: relative;
+background: white;
+background-color:white;
+width: 100pt;
+border-radius: 5px;
+background:  black;
+box-shadow: 5px 10px #888888;
+backdrop-filter: opacity(70%);
+margin: 30px;
+padding: 20px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+align-content:center;
+position: relative;
+}
+
+#b8{
+color: Aquamarine;
+position: relative;
+background: white;
+background-color:white;
+width: 100pt;
+border-radius: 5px;
+background:  black;
+box-shadow: 5px 10px #888888;
+backdrop-filter: opacity(70%);
+margin: 30px;
+padding: 20px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+align-content:center;
+position: relative;
+}
+
+#b9{
+color: DarkCyan;
+position: relative;
+background: white;
+background-color:white;
+width: 100pt;
+border-radius: 5px;
+background:  black;
+box-shadow: 5px 10px #888888;
+backdrop-filter: opacity(70%);
+margin: 30px;
+padding: 20px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+align-content:center;
+position: relative;
+}
+
+#b10{
+color: Aquamarine;
+position: relative;
+background: white;
+background-color:white;
+width: 100pt;
+border-radius: 5px;
+background:  black;
+box-shadow: 5px 10px #888888;
+backdrop-filter: opacity(70%);
+margin: 30px;
+padding: 20px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+align-content:center;
+position: relative;
+}
